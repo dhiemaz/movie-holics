@@ -1,0 +1,898 @@
+.fi {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+    font-style: normal
+}
+
+.fi-ad {
+    background-image: url("../img/flags/ad.png")
+}
+
+.fi-ae {
+    background-image: url("../img/flags/ae.png")
+}
+
+.fi-af {
+    background-image: url("../img/flags/af.png")
+}
+
+.fi-ag {
+    background-image: url("../img/flags/ag.png")
+}
+
+.fi-ai {
+    background-image: url("../img/flags/ai.png")
+}
+
+.fi-al {
+    background-image: url("../img/flags/al.png")
+}
+
+.fi-am {
+    background-image: url("../img/flags/am.png")
+}
+
+.fi-an {
+    background-image: url("../img/flags/an.png")
+}
+
+.fi-ao {
+    background-image: url("../img/flags/ao.png")
+}
+
+.fi-aq {
+    background-image: url("../img/flags/aq.png")
+}
+
+.fi-ar {
+    background-image: url("../img/flags/ar.png")
+}
+
+.fi-as {
+    background-image: url("../img/flags/as.png")
+}
+
+.fi-at {
+    background-image: url("../img/flags/at.png")
+}
+
+.fi-au {
+    background-image: url("../img/flags/au.png")
+}
+
+.fi-aw {
+    background-image: url("../img/flags/aw.png")
+}
+
+.fi-az {
+    background-image: url("../img/flags/az.png")
+}
+
+.fi-ba {
+    background-image: url("../img/flags/ba.png")
+}
+
+.fi-bb {
+    background-image: url("../img/flags/bb.png")
+}
+
+.fi-bd {
+    background-image: url("../img/flags/bd.png")
+}
+
+.fi-be {
+    background-image: url("../img/flags/be.png")
+}
+
+.fi-bf {
+    background-image: url("../img/flags/bf.png")
+}
+
+.fi-bg {
+    background-image: url("../img/flags/bg.png")
+}
+
+.fi-bh {
+    background-image: url("../img/flags/bh.png")
+}
+
+.fi-bi {
+    background-image: url("../img/flags/bi.png")
+}
+
+.fi-bj {
+    background-image: url("../img/flags/bj.png")
+}
+
+.fi-bm {
+    background-image: url("../img/flags/bm.png")
+}
+
+.fi-bn {
+    background-image: url("../img/flags/bn.png")
+}
+
+.fi-bo {
+    background-image: url("../img/flags/bo.png")
+}
+
+.fi-br {
+    background-image: url("../img/flags/br.png")
+}
+
+.fi-bs {
+    background-image: url("../img/flags/bs.png")
+}
+
+.fi-bt {
+    background-image: url("../img/flags/bt.png")
+}
+
+.fi-bw {
+    background-image: url("../img/flags/bw.png")
+}
+
+.fi-by {
+    background-image: url("../img/flags/by.png")
+}
+
+.fi-bz {
+    background-image: url("../img/flags/bz.png")
+}
+
+.fi-ca {
+    background-image: url("../img/flags/ca.png")
+}
+
+.fi-cd {
+    background-image: url("../img/flags/cd.png")
+}
+
+.fi-cf {
+    background-image: url("../img/flags/cf.png")
+}
+
+.fi-cg {
+    background-image: url("../img/flags/cg.png")
+}
+
+.fi-ch {
+    background-image: url("../img/flags/ch.png")
+}
+
+.fi-ci {
+    background-image: url("../img/flags/ci.png")
+}
+
+.fi-ck {
+    background-image: url("../img/flags/ck.png")
+}
+
+.fi-cl {
+    background-image: url("../img/flags/cl.png")
+}
+
+.fi-cm {
+    background-image: url("../img/flags/cm.png")
+}
+
+.fi-cn {
+    background-image: url("../img/flags/cn.png")
+}
+
+.fi-co {
+    background-image: url("../img/flags/co.png")
+}
+
+.fi-cr {
+    background-image: url("../img/flags/cr.png")
+}
+
+.fi-cu {
+    background-image: url("../img/flags/cu.png")
+}
+
+.fi-cv {
+    background-image: url("../img/flags/cv.png")
+}
+
+.fi-cy {
+    background-image: url("../img/flags/cy.png")
+}
+
+.fi-cz {
+    background-image: url("../img/flags/cz.png")
+}
+
+.fi-de {
+    background-image: url("../img/flags/de.png")
+}
+
+.fi-dj {
+    background-image: url("../img/flags/dj.png")
+}
+
+.fi-dk {
+    background-image: url("../img/flags/dk.png")
+}
+
+.fi-dm {
+    background-image: url("../img/flags/dm.png")
+}
+
+.fi-do {
+    background-image: url("../img/flags/do.png")
+}
+
+.fi-dz {
+    background-image: url("../img/flags/dz.png")
+}
+
+.fi-ec {
+    background-image: url("../img/flags/ec.png")
+}
+
+.fi-ee {
+    background-image: url("../img/flags/ee.png")
+}
+
+.fi-eg {
+    background-image: url("../img/flags/eg.png")
+}
+
+.fi-eh {
+    background-image: url("../img/flags/eh.png")
+}
+
+.fi-er {
+    background-image: url("../img/flags/er.png")
+}
+
+.fi-es {
+    background-image: url("../img/flags/es.png")
+}
+
+.fi-et {
+    background-image: url("../img/flags/et.png")
+}
+
+.fi-fi {
+    background-image: url("../img/flags/fi.png")
+}
+
+.fi-fj {
+    background-image: url("../img/flags/fj.png")
+}
+
+.fi-fm {
+    background-image: url("../img/flags/fm.png")
+}
+
+.fi-fo {
+    background-image: url("../img/flags/fo.png")
+}
+
+.fi-fr {
+    background-image: url("../img/flags/fr.png")
+}
+
+.fi-ga {
+    background-image: url("../img/flags/ga.png")
+}
+
+.fi-gb {
+    background-image: url("../img/flags/gb.png")
+}
+
+.fi-gd {
+    background-image: url("../img/flags/gd.png")
+}
+
+.fi-ge {
+    background-image: url("../img/flags/ge.png")
+}
+
+.fi-gg {
+    background-image: url("../img/flags/gg.png")
+}
+
+.fi-gh {
+    background-image: url("../img/flags/gh.png")
+}
+
+.fi-gi {
+    background-image: url("../img/flags/gi.png")
+}
+
+.fi-gm {
+    background-image: url("../img/flags/gm.png")
+}
+
+.fi-gn {
+    background-image: url("../img/flags/gn.png")
+}
+
+.fi-gp {
+    background-image: url("../img/flags/gp.png")
+}
+
+.fi-gq {
+    background-image: url("../img/flags/gq.png")
+}
+
+.fi-gr {
+    background-image: url("../img/flags/gr.png")
+}
+
+.fi-gt {
+    background-image: url("../img/flags/gt.png")
+}
+
+.fi-gu {
+    background-image: url("../img/flags/gu.png")
+}
+
+.fi-gq {
+    background-image: url("../img/flags/gq.png")
+}
+
+.fi-gy {
+    background-image: url("../img/flags/gy.png")
+}
+
+.fi-hk {
+    background-image: url("../img/flags/hk.png")
+}
+
+.fi-hn {
+    background-image: url("../img/flags/hn.png")
+}
+
+.fi-hr {
+    background-image: url("../img/flags/hr.png")
+}
+
+.fi-ht {
+    background-image: url("../img/flags/ht.png")
+}
+
+.fi-hu {
+    background-image: url("../img/flags/hu.png")
+}
+
+.fi-id {
+    background-image: url("../img/flags/id.png")
+}
+
+.fi-ie {
+    background-image: url("../img/flags/ie.png")
+}
+
+.fi-il {
+    background-image: url("../img/flags/il.png")
+}
+
+.fi-im {
+    background-image: url("../img/flags/im.png")
+}
+
+.fi-in {
+    background-image: url("../img/flags/in.png")
+}
+
+.fi-iq {
+    background-image: url("../img/flags/iq.png")
+}
+
+.fi-ir {
+    background-image: url("../img/flags/ir.png")
+}
+
+.fi-is {
+    background-image: url("../img/flags/is.png")
+}
+
+.fi-it {
+    background-image: url("../img/flags/it.png")
+}
+
+.fi-je {
+    background-image: url("../img/flags/je.png")
+}
+
+.fi-jm {
+    background-image: url("../img/flags/jm.png")
+}
+
+.fi-jo {
+    background-image: url("../img/flags/jo.png")
+}
+
+.fi-jp {
+    background-image: url("../img/flags/jp.png")
+}
+
+.fi-ke {
+    background-image: url("../img/flags/ke.png")
+}
+
+.fi-kg {
+    background-image: url("../img/flags/kg.png")
+}
+
+.fi-kh {
+    background-image: url("../img/flags/kh.png")
+}
+
+.fi-ki {
+    background-image: url("../img/flags/ki.png")
+}
+
+.fi-km {
+    background-image: url("../img/flags/km.png")
+}
+
+.fi-kn {
+    background-image: url("../img/flags/kn.png")
+}
+
+.fi-kp {
+    background-image: url("../img/flags/kp.png")
+}
+
+.fi-kr {
+    background-image: url("../img/flags/kr.png")
+}
+
+.fi-kw {
+    background-image: url("../img/flags/kw.png")
+}
+
+.fi-ky {
+    background-image: url("../img/flags/ky.png")
+}
+
+.fi-kz {
+    background-image: url("../img/flags/kz.png")
+}
+
+.fi-la {
+    background-image: url("../img/flags/la.png")
+}
+
+.fi-lb {
+    background-image: url("../img/flags/lb.png")
+}
+
+.fi-lc {
+    background-image: url("../img/flags/lc.png")
+}
+
+.fi-li {
+    background-image: url("../img/flags/li.png")
+}
+
+.fi-lk {
+    background-image: url("../img/flags/lk.png")
+}
+
+.fi-lr {
+    background-image: url("../img/flags/lr.png")
+}
+
+.fi-ls {
+    background-image: url("../img/flags/ls.png")
+}
+
+.fi-lt {
+    background-image: url("../img/flags/lt.png")
+}
+
+.fi-lu {
+    background-image: url("../img/flags/lu.png")
+}
+
+.fi-lv {
+    background-image: url("../img/flags/lv.png")
+}
+
+.fi-ly {
+    background-image: url("../img/flags/ly.png")
+}
+
+.fi-ma {
+    background-image: url("../img/flags/ma.png")
+}
+
+.fi-mc {
+    background-image: url("../img/flags/mc.png")
+}
+
+.fi-md {
+    background-image: url("../img/flags/md.png")
+}
+
+.fi-me {
+    background-image: url("../img/flags/me.png")
+}
+
+.fi-mg {
+    background-image: url("../img/flags/mg.png")
+}
+
+.fi-mh {
+    background-image: url("../img/flags/mh.png")
+}
+
+.fi-mk {
+    background-image: url("../img/flags/mk.png")
+}
+
+.fi-ml {
+    background-image: url("../img/flags/ml.png")
+}
+
+.fi-mm {
+    background-image: url("../img/flags/mm.png")
+}
+
+.fi-mn {
+    background-image: url("../img/flags/mn.png")
+}
+
+.fi-mo {
+    background-image: url("../img/flags/mo.png")
+}
+
+.fi-mq {
+    background-image: url("../img/flags/mq.png")
+}
+
+.fi-mr {
+    background-image: url("../img/flags/mr.png")
+}
+
+.fi-ms {
+    background-image: url("../img/flags/ms.png")
+}
+
+.fi-mt {
+    background-image: url("../img/flags/mt.png")
+}
+
+.fi-mu {
+    background-image: url("../img/flags/mu.png")
+}
+
+.fi-mv {
+    background-image: url("../img/flags/mv.png")
+}
+
+.fi-mw {
+    background-image: url("../img/flags/mw.png")
+}
+
+.fi-mx {
+    background-image: url("../img/flags/mx.png")
+}
+
+.fi-my {
+    background-image: url("../img/flags/my.png")
+}
+
+.fi-mz {
+    background-image: url("../img/flags/mz.png")
+}
+
+.fi-na {
+    background-image: url("../img/flags/na.png")
+}
+
+.fi-nc {
+    background-image: url("../img/flags/nc.png")
+}
+
+.fi-ne {
+    background-image: url("../img/flags/ne.png")
+}
+
+.fi-ng {
+    background-image: url("../img/flags/ng.png")
+}
+
+.fi-ni {
+    background-image: url("../img/flags/ni.png")
+}
+
+.fi-nl {
+    background-image: url("../img/flags/nl.png")
+}
+
+.fi-no {
+    background-image: url("../img/flags/no.png")
+}
+
+.fi-np {
+    background-image: url("../img/flags/np.png")
+}
+
+.fi-nr {
+    background-image: url("../img/flags/nr.png")
+}
+
+.fi-nz {
+    background-image: url("../img/flags/nz.png")
+}
+
+.fi-om {
+    background-image: url("../img/flags/om.png")
+}
+
+.fi-pa {
+    background-image: url("../img/flags/pa.png")
+}
+
+.fi-pe {
+    background-image: url("../img/flags/pe.png")
+}
+
+.fi-pf {
+    background-image: url("../img/flags/pf.png")
+}
+
+.fi-pg {
+    background-image: url("../img/flags/pg.png")
+}
+
+.fi-ph {
+    background-image: url("../img/flags/ph.png")
+}
+
+.fi-pk {
+    background-image: url("../img/flags/pk.png")
+}
+
+.fi-pl {
+    background-image: url("../img/flags/pl.png")
+}
+
+.fi-pr {
+    background-image: url("../img/flags/pr.png")
+}
+
+.fi-ps {
+    background-image: url("../img/flags/ps.png")
+}
+
+.fi-pt {
+    background-image: url("../img/flags/pt.png")
+}
+
+.fi-pw {
+    background-image: url("../img/flags/pw.png")
+}
+
+.fi-py {
+    background-image: url("../img/flags/py.png")
+}
+
+.fi-qa {
+    background-image: url("../img/flags/qa.png")
+}
+
+.fi-re {
+    background-image: url("../img/flags/re.png")
+}
+
+.fi-ro {
+    background-image: url("../img/flags/ro.png")
+}
+
+.fi-rs {
+    background-image: url("../img/flags/rs.png")
+}
+
+.fi-ru {
+    background-image: url("../img/flags/ru.png")
+}
+
+.fi-rw {
+    background-image: url("../img/flags/rw.png")
+}
+
+.fi-sa {
+    background-image: url("../img/flags/sa.png")
+}
+
+.fi-sb {
+    background-image: url("../img/flags/sb.png")
+}
+
+.fi-sc {
+    background-image: url("../img/flags/sc.png")
+}
+
+.fi-sd {
+    background-image: url("../img/flags/sd.png")
+}
+
+.fi-se {
+    background-image: url("../img/flags/se.png")
+}
+
+.fi-sg {
+    background-image: url("../img/flags/sg.png")
+}
+
+.fi-si {
+    background-image: url("../img/flags/si.png")
+}
+
+.fi-sk {
+    background-image: url("../img/flags/sk.png")
+}
+
+.fi-sl {
+    background-image: url("../img/flags/sl.png")
+}
+
+.fi-sm {
+    background-image: url("../img/flags/sm.png")
+}
+
+.fi-sn {
+    background-image: url("../img/flags/sn.png")
+}
+
+.fi-so {
+    background-image: url("../img/flags/so.png")
+}
+
+.fi-sr {
+    background-image: url("../img/flags/sr.png")
+}
+
+.fi-st {
+    background-image: url("../img/flags/st.png")
+}
+
+.fi-sv {
+    background-image: url("../img/flags/sv.png")
+}
+
+.fi-sy {
+    background-image: url("../img/flags/sy.png")
+}
+
+.fi-sz {
+    background-image: url("../img/flags/sz.png")
+}
+
+.fi-tc {
+    background-image: url("../img/flags/tc.png")
+}
+
+.fi-td {
+    background-image: url("../img/flags/td.png")
+}
+
+.fi-tg {
+    background-image: url("../img/flags/tg.png")
+}
+
+.fi-th {
+    background-image: url("../img/flags/th.png")
+}
+
+.fi-tj {
+    background-image: url("../img/flags/tj.png")
+}
+
+.fi-tl {
+    background-image: url("../img/flags/tl.png")
+}
+
+.fi-tm {
+    background-image: url("../img/flags/tm.png")
+}
+
+.fi-tn {
+    background-image: url("../img/flags/tn.png")
+}
+
+.fi-to {
+    background-image: url("../img/flags/to.png")
+}
+
+.fi-tr {
+    background-image: url("../img/flags/tr.png")
+}
+
+.fi-tt {
+    background-image: url("../img/flags/tt.png")
+}
+
+.fi-tv {
+    background-image: url("../img/flags/tv.png")
+}
+
+.fi-tw {
+    background-image: url("../img/flags/tw.png")
+}
+
+.fi-tz {
+    background-image: url("../img/flags/tz.png")
+}
+
+.fi-ua {
+    background-image: url("../img/flags/ua.png")
+}
+
+.fi-ug {
+    background-image: url("../img/flags/ug.png")
+}
+
+.fi-us {
+    background-image: url("../img/flags/us.png")
+}
+
+.fi-uy {
+    background-image: url("../img/flags/uy.png")
+}
+
+.fi-uz {
+    background-image: url("../img/flags/uz.png")
+}
+
+.fi-va {
+    background-image: url("../img/flags/va.png")
+}
+
+.fi-vc {
+    background-image: url("../img/flags/vc.png")
+}
+
+.fi-ve {
+    background-image: url("../img/flags/ve.png")
+}
+
+.fi-vg {
+    background-image: url("../img/flags/vg.png")
+}
+
+.fi-vi {
+    background-image: url("../img/flags/vi.png")
+}
+
+.fi-vn {
+    background-image: url("../img/flags/vn.png")
+}
+
+.fi-vu {
+    background-image: url("../img/flags/vu.png")
+}
+
+.fi-ws {
+    background-image: url("../img/flags/ws.png")
+}
+
+.fi-ye {
+    background-image: url("../img/flags/ye.png")
+}
+
+.fi-za {
+    background-image: url("../img/flags/za.png")
+}
+
+.fi-zm {
+    background-image: url("../img/flags/zm.png")
+}
+
+.fi-zw {
+    background-image: url("../img/flags/zw.png")
+}
